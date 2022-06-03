@@ -1,6 +1,6 @@
-# Frontend Mentor - Product feedback app API
+# Product feedback app API
 
-This is a Node.js application which serves a RESTful API for the frontend of the [Product feedback app](https://www.frontendmentor.io/challenges/product-feedback-app-wbvUYqjR6).
+This is a Node.js application which serves a RESTful API for the frontend of the [Product feedback app](https://product-feedback-app-52489.web.app).
 
 ### Documentation
 
